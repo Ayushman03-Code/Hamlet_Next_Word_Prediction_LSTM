@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.17
+numpy 
+pandas
+scikit-learn
+keras
